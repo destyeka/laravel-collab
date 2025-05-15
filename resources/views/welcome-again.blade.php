@@ -11,5 +11,7 @@
 =======
     <p>Aku menambahkan text</p>
 >>>>>>> 87add45 (Menambahkan text di welcome-again blade)
+
+    <h1>Aku adalah anak gembala</h1>
 </body>
 </html>
